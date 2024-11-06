@@ -1,5 +1,5 @@
 
-public class Act8 {
+public class Act08 {
 	public static void main(String args[]) {
 
 		int number1;
